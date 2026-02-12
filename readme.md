@@ -18,11 +18,6 @@ after importing the project files in your editor, follow the steps below:
 
 Once the setup is complete, explore the various features offered by the PainCare application through the user interface. You can manage your profile, write blogs, comment on posts, and perform self-diagnosis with pain evolution tracking.
 
-## Contributors
-
-- Abderahmane el kaimouni
-- Safouat EL Yassini
-- Mohamed Amyn el boujadaini
 
 Feel free to contribute to the PainCare project and enhance its functionalities. Happy coding!
 
